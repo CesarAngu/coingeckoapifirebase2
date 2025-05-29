@@ -1,1 +1,0 @@
-# coingeckoapifirebase2
